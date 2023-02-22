@@ -1,5 +1,6 @@
 In this Jupyter notebook code all the concepts of Time Series using pandas libary is discussed with examples.
-Concepts are : <ul><li>Basics</li>
+Concepts are : <ul>
+  <li>Basics</li>
   <li>date_range()</li>
   <li>resample()</li>
   <li> Holidays Management</li>
